@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "encumbering_stone",
+	"version": "${version}",
+	"name": "Encumbering Stone",
+	"description": "Adds the Encumbering Stone: while active in your inventory it prevents item pickup, except for items on its per-stone exception list. Inspired by Terraria.",
+	"authors": [
+		"Boy"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/encumbering_stone/textures/item/basic_encumbering_stone.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.encumberingstone.EncumberingStoneMod"
+		]
+	},
+	"mixins": [
+		"encumbering_stone.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": ">=26.1 <26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

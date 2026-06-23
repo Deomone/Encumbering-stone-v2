@@ -1,0 +1,11 @@
+{
+	"item.encumbering_stone.basic_encumbering_stone": "Basic Encumbering Stone",
+	"item.encumbering_stone.enhanced_encumbering_stone": "Enhanced Encumbering Stone",
+	"item.encumbering_stone.upgraded_encumbering_stone": "Upgraded Encumbering Stone",
+	"container.encumbering_stone.title": "Encumbering Stone",
+	"tooltip.encumbering_stone.enabled": "Enabled",
+	"tooltip.encumbering_stone.disabled": "Disabled",
+	"tooltip.encumbering_stone.exceptions": "Exceptions: %s/%s",
+	"tooltip.encumbering_stone.hint_toggle": "Right-click to toggle",
+	"tooltip.encumbering_stone.hint_menu": "Sneak + right-click to open exceptions"
+}

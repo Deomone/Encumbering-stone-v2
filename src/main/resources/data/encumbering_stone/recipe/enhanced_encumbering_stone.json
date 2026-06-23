@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		" I ",
+		"ISI",
+		"BBB"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"S": {
+			"item": "encumbering_stone:basic_encumbering_stone"
+		},
+		"B": {
+			"item": "minecraft:iron_block"
+		}
+	},
+	"result": {
+		"id": "encumbering_stone:enhanced_encumbering_stone",
+		"count": 1
+	}
+}
