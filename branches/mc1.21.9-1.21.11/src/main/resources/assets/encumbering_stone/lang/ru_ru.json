@@ -1,0 +1,11 @@
+{
+	"item.encumbering_stone.basic_encumbering_stone": "Базовый перегружающий камень",
+	"item.encumbering_stone.enhanced_encumbering_stone": "Улучшенный перегружающий камень",
+	"item.encumbering_stone.upgraded_encumbering_stone": "Усовершенствованный перегружающий камень",
+	"container.encumbering_stone.title": "Encumbering Stone",
+	"tooltip.encumbering_stone.enabled": "Включён",
+	"tooltip.encumbering_stone.disabled": "Выключен",
+	"tooltip.encumbering_stone.exceptions": "Исключения: %s/%s",
+	"tooltip.encumbering_stone.hint_toggle": "ПКМ — переключить",
+	"tooltip.encumbering_stone.hint_menu": "Shift + ПКМ — список исключений"
+}

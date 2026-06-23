@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.example.encumberingstone.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ItemEntityMixin",
+		"HopperBlockEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
